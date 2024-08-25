@@ -16,8 +16,8 @@ export const About = () =>{
                             <Heading title = "About me" />
                             <p>{val.desc}</p>
                             <p>{val.desc1}</p>
-                            <button>Download CV</button>
-                            <button className="primaryBtn">Download CV</button>
+                            <button style={{marginTop: '10rem'}}>Download CV</button>
+                            <button className="primaryBtn" style={{marginTop: '10rem'}}>Download CV</button>
                         </div>
                     </>
                 ))}

@@ -33,16 +33,16 @@ export const navlink = [
 export const home = [
   {
     text: "HELLO I'M",
-    name: "ALAMIN MUSA",
+    name: "NO NAME",
     post: "WEB DESIGNER",
     design: "UI / UX DESIGNER",
-    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    desc: "Full-Stack Web Developer with a strong foundation in Java backend development and React Native frontend frameworks. I have a proven track record of delivering robust, scalable, and user-friendly web applications.",
   },
 ]
 export const about = [
   {
-    desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    desc1: "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
+    desc: "Dedicated Software Engineer with a passion for creating innovative solutions. ",
+    desc1: "Proficient in Reactjs, React-Native, JavaScript, Java. Experienced in fullstack web design. Seeking opportunities to contribute my skills to a dynamic team and drive project success.",
     cover: "./images/man.png",
   },
 ]
@@ -51,37 +51,37 @@ export const services = [
     id: 1,
     icon: <Settings />,
     title: "Creative Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Design interfaces that are easy to navigate and understand. Create visually stunning designs that engage users",
   },
   {
     id: 2,
     icon: <CropRotate />,
     title: "Clean Code",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Write well-structured code that is easy to understand and modify. Write unit tests to ensure code quality and catch errors early.",
   },
   {
     id: 3,
     icon: <ViewInAr />,
     title: "Responsive Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Ensure your website looks great and functions seamlessly on all screen sizes. Design for mobile devices first and adapt for larger screens.",
   },
   {
     id: 4,
     icon: <PieChart />,
     title: "Material UI	",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: " Leverage a rich library of pre-designed components to accelerate development.",
   },
   {
     id: 5,
     icon: <Code />,
     title: "Material UI Icons",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: "Choose from a vast collection of high-quality icons to enhance your designs.",
   },
   {
     id: 6,
     icon: <BarChart />,
     title: "Awesome Support",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: " Foster a supportive community where users can share knowledge and help each other.",
   },
 ]
 export const project = [
